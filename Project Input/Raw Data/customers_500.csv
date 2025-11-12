@@ -1,0 +1,501 @@
+customer_id,full_name,date_of_birth,gender,region,join_date,risk_segment,kyc_status
+1001,Noah Jackson,2001-08-22,M,Mpumalanga,2016-09-05,Low,Verified
+1002,Liam Rodriguez,1972-08-07,M,KwaZulu-Natal,2015-02-18,Low,Verified
+1003,Emma Thomas,1972-01-06,F,Limpopo,2019-03-21,Low,Verified
+1004,Alexander Thomas,2001-06-23,F,KwaZulu-Natal,2019-08-26,Low,Verified
+1005,Michael Miller,1980-05-19,M,Gauteng,2016-03-22,Low,Verified
+1006,Emma Thomas,1982-06-10,M,Northern Cape,2023-12-17,Medium,Verified
+1007,Ava Gonzalez,1983-03-17,F,Gauteng,2015-04-18,Low,Verified
+1008,Isabella Martin,1986-02-12,F,Western Cape,2022-04-26,Medium,Verified
+1009,Ava Anderson,1977-07-30,F,Northern Cape,2015-11-02,Low,Pending
+1010,Lucas Davis,1991-09-06,M,Eastern Cape,2017-01-19,Low,Verified
+1011,Jacob Williams,2003-09-03,F,North West,2020-02-23,Low,Verified
+1012,James Smith,1980-07-17,F,Mpumalanga,2023-08-04,Low,Verified
+1013,Ava Smith,1997-09-27,M,North West,2019-03-25,Low,Verified
+1014,Grace Smith,1995-07-15,M,Mpumalanga,2022-06-25,Low,Verified
+1015,Michael Miller,1965-01-20,F,Western Cape,2020-08-18,Medium,Verified
+1016,Isabella Smith,1952-08-10,M,Free State,2023-12-13,Medium,Verified
+1017,Daniel Davis,1963-04-24,M,Gauteng,2024-02-21,Low,Pending
+1018,Alexander Thomas,1972-06-10,M,North West,2018-03-27,Low,Verified
+1019,Grace Davis,1969-11-03,F,Limpopo,2016-09-28,Low,Suspended
+1020,Amelia Davis,2000-06-28,M,Free State,2016-09-23,Low,Pending
+1021,Sophia Anderson,1961-12-20,F,North West,2020-11-18,Low,Verified
+1022,Mia Smith,1960-02-12,F,Mpumalanga,2024-04-06,Medium,Verified
+1023,Isabella Moore,1966-07-24,F,Northern Cape,2016-03-09,Low,Verified
+1024,Emma Garcia,1986-11-19,M,Western Cape,2017-11-08,High,Pending
+1025,Mia Williams,1954-06-30,F,KwaZulu-Natal,2015-03-18,Low,Verified
+1026,James Taylor,1958-11-26,F,Free State,2020-03-17,Low,Verified
+1027,Isabella Taylor,1998-12-16,F,Northern Cape,2019-06-13,Medium,Verified
+1028,Mason Martinez,1973-11-03,F,Free State,2024-02-04,Low,Failed
+1029,Mia Jackson,1959-08-06,M,North West,2022-02-09,Medium,Verified
+1030,Charlotte Taylor,1968-05-01,F,Northern Cape,2022-11-26,Low,Verified
+1031,Michael Jackson,1973-06-24,M,KwaZulu-Natal,2023-04-03,Medium,Verified
+1032,Ethan Thomas,1955-12-29,M,Mpumalanga,2023-11-22,Low,Verified
+1033,Sophia Gonzalez,2001-03-31,F,KwaZulu-Natal,2017-07-24,High,Verified
+1034,Isabella Garcia,1997-03-23,M,Mpumalanga,2021-01-11,Medium,Verified
+1035,Amelia Moore,1957-01-16,F,KwaZulu-Natal,2022-10-19,Low,Pending
+1036,Amelia Brown,1956-07-13,Other,Eastern Cape,2019-05-20,Low,Verified
+1037,Alexander Taylor,1969-07-03,F,Eastern Cape,2015-01-22,Low,Verified
+1038,Emma Garcia,1965-07-21,F,Eastern Cape,2021-02-06,Medium,Verified
+1039,Daniel Gonzalez,1995-11-21,M,North West,2024-01-06,High,Verified
+1040,Amelia Thomas,1988-10-06,F,KwaZulu-Natal,2017-10-18,Medium,Verified
+1041,Ava Thomas,1951-12-17,M,Western Cape,2019-09-29,Medium,Suspended
+1042,Ethan Martinez,2002-12-18,F,Western Cape,2016-10-12,Low,Verified
+1043,Chloe Jackson,1983-01-10,M,Free State,2022-06-05,Low,Verified
+1044,Jacob Gonzalez,1993-08-30,F,Gauteng,2017-01-03,Medium,Verified
+1045,Olivia Garcia,1975-06-16,M,North West,2018-11-03,Low,Verified
+1046,Daniel Davis,1969-09-24,F,KwaZulu-Natal,2022-06-06,Low,Verified
+1047,Ava Miller,1967-12-24,F,Mpumalanga,2017-09-06,Low,Verified
+1048,Grace Moore,2003-08-28,M,Northern Cape,2015-11-08,Low,Verified
+1049,Sophia Gonzalez,1994-04-14,F,Mpumalanga,2023-09-10,Medium,Verified
+1050,Daniel Lopez,1971-02-07,F,Limpopo,2021-01-05,Medium,Verified
+1051,Jacob Lopez,1988-03-02,M,Free State,2021-04-03,Medium,Verified
+1052,Alexander Rodriguez,1990-07-27,F,Gauteng,2016-10-21,Low,Pending
+1053,Grace Martin,1982-12-10,F,Free State,2016-12-20,High,Verified
+1054,Ava Gonzalez,1998-11-06,M,North West,2019-03-19,Medium,Verified
+1055,Daniel Jones,1966-12-10,F,North West,2021-07-25,Low,Verified
+1056,Daniel Moore,1993-04-04,M,Limpopo,2015-03-30,Low,Verified
+1057,Mason Wilson,1956-07-10,F,Limpopo,2020-10-02,Medium,Verified
+1058,Ethan Thomas,1973-01-06,F,Free State,2017-06-07,Low,Verified
+1059,Amelia Jackson,1986-07-17,F,Mpumalanga,2019-10-17,Low,Failed
+1060,Grace Miller,1968-01-25,F,Limpopo,2017-08-23,Medium,Verified
+1061,Daniel Wilson,1950-09-29,F,KwaZulu-Natal,2023-11-28,Low,Verified
+1062,Charlotte Lopez,1997-09-23,M,Western Cape,2015-06-15,Medium,Verified
+1063,Isabella Lopez,1984-02-27,M,North West,2020-10-13,Low,Verified
+1064,Ava Moore,1996-02-21,M,KwaZulu-Natal,2023-02-16,Low,Verified
+1065,Grace Martin,1993-09-12,F,North West,2017-02-18,Low,Verified
+1066,Chloe Hernandez,1956-11-08,M,KwaZulu-Natal,2022-11-08,Low,Verified
+1067,Alexander Martin,1986-03-22,F,North West,2020-08-26,Low,Verified
+1068,Ava Davis,1995-10-05,F,Western Cape,2022-09-29,Low,Verified
+1069,Olivia Moore,2001-11-18,F,Northern Cape,2021-11-11,Low,Verified
+1070,Jacob Garcia,2002-06-13,M,Western Cape,2022-04-30,Low,Verified
+1071,Liam Moore,1988-03-07,M,Northern Cape,2021-01-07,High,Verified
+1072,Lucas Johnson,1953-08-07,M,Mpumalanga,2015-11-13,Low,Verified
+1073,Liam Brown,1981-07-25,M,Mpumalanga,2017-10-12,Low,Pending
+1074,Ava Anderson,1991-02-17,M,North West,2019-06-19,Medium,Pending
+1075,Ava Rodriguez,1950-07-29,M,Northern Cape,2023-09-28,Medium,Verified
+1076,Sophia Rodriguez,1967-01-10,M,Mpumalanga,2020-03-19,Medium,Verified
+1077,Emma Martin,1976-11-09,F,Mpumalanga,2016-05-02,Low,Verified
+1078,Olivia Lopez,1950-06-30,M,Northern Cape,2021-05-11,Low,Verified
+1079,Mia Brown,1998-07-08,M,North West,2022-03-22,Low,Verified
+1080,Olivia Garcia,1960-10-08,M,Mpumalanga,2015-07-18,Medium,Verified
+1081,Lucas Taylor,1977-02-25,F,North West,2019-05-05,Low,Suspended
+1082,Olivia Rodriguez,1995-12-24,F,Free State,2016-01-03,Medium,Verified
+1083,Mia Anderson,1978-04-24,M,Northern Cape,2021-04-12,Low,Verified
+1084,James Thomas,1998-09-19,M,Eastern Cape,2016-01-23,Low,Verified
+1085,Charlotte Williams,2001-04-25,M,KwaZulu-Natal,2022-03-12,Medium,Verified
+1086,Ava Martinez,1999-06-20,M,Eastern Cape,2024-02-21,Low,Verified
+1087,Michael Hernandez,1975-05-07,M,Northern Cape,2020-05-15,Low,Verified
+1088,Isabella Miller,1997-02-26,M,Eastern Cape,2015-07-04,Medium,Verified
+1089,Lucas Williams,1986-11-29,F,Eastern Cape,2020-10-24,High,Verified
+1090,Lucas Taylor,1998-08-18,F,Gauteng,2017-09-06,Low,Suspended
+1091,Mason Martin,1996-06-17,M,Mpumalanga,2023-09-20,Medium,Verified
+1092,Isabella Smith,1986-08-19,F,Gauteng,2015-02-19,Low,Verified
+1093,Sophia Smith,2004-01-29,F,Mpumalanga,2015-03-27,Medium,Verified
+1094,Michael Jones,2002-02-17,M,Free State,2024-08-20,Low,Verified
+1095,Ethan Garcia,1977-08-11,F,Gauteng,2018-07-01,Low,Verified
+1096,Alexander Taylor,1990-08-07,F,Mpumalanga,2020-03-25,High,Verified
+1097,Isabella Moore,1977-01-31,M,Mpumalanga,2018-02-12,Low,Failed
+1098,Sophia Taylor,1961-09-30,M,Mpumalanga,2023-02-09,Low,Failed
+1099,Alexander Davis,1995-06-05,M,Free State,2019-08-30,Medium,Verified
+1100,Daniel Smith,1989-11-06,M,Eastern Cape,2016-11-13,Low,Verified
+1101,Michael Jackson,2002-08-06,F,Limpopo,2021-09-02,Low,Pending
+1102,James Wilson,1962-08-04,F,Eastern Cape,2016-06-29,Low,Verified
+1103,Ethan Martinez,1999-05-06,M,Mpumalanga,2021-04-19,Low,Verified
+1104,Noah Miller,1964-08-15,F,Free State,2022-12-08,Low,Verified
+1105,Ethan Martinez,1972-09-03,M,Free State,2024-04-09,Low,Verified
+1106,Liam Brown,1950-11-11,F,KwaZulu-Natal,2018-07-27,Low,Verified
+1107,Mia Martinez,1988-01-21,M,Gauteng,2023-08-23,High,Verified
+1108,Olivia Wilson,2000-10-08,M,Free State,2020-12-30,Low,Verified
+1109,Jacob Rodriguez,1953-04-02,F,Mpumalanga,2022-02-20,Low,Pending
+1110,Noah Smith,1983-01-18,F,Eastern Cape,2020-01-12,Low,Verified
+1111,Grace Johnson,1987-10-05,F,Eastern Cape,2020-08-16,Low,Verified
+1112,Jacob Miller,1986-01-29,M,Western Cape,2024-01-03,Low,Verified
+1113,Jacob Anderson,1975-04-05,M,Mpumalanga,2019-09-07,Medium,Verified
+1114,Olivia Martin,1951-08-24,M,Free State,2021-03-18,Low,Verified
+1115,Daniel Johnson,1958-02-12,F,Eastern Cape,2016-11-17,Low,Verified
+1116,Michael Miller,1958-01-29,F,Limpopo,2022-11-02,Medium,Verified
+1117,Amelia Williams,1950-06-07,F,Western Cape,2019-06-08,Low,Pending
+1118,Mason Jackson,1984-05-25,Other,Free State,2022-11-01,Low,Verified
+1119,Isabella Jackson,1974-02-14,M,Gauteng,2019-05-13,Medium,Verified
+1120,Mason Thomas,1991-08-30,F,Mpumalanga,2024-01-25,Low,Verified
+1121,Emma Gonzalez,1974-05-26,M,Western Cape,2017-04-02,Low,Pending
+1122,Mia Taylor,1983-06-07,M,Free State,2020-07-22,Low,Verified
+1123,Charlotte Smith,1993-03-11,M,KwaZulu-Natal,2024-02-29,Low,Verified
+1124,James Martin,1980-03-11,F,Western Cape,2018-02-14,Medium,Verified
+1125,Michael Martinez,1984-11-07,M,Northern Cape,2019-01-14,Low,Verified
+1126,Ava Garcia,1990-12-04,M,KwaZulu-Natal,2016-09-12,Low,Verified
+1127,Mason Hernandez,1960-06-14,F,Mpumalanga,2017-11-28,Medium,Failed
+1128,Jacob Jones,1993-05-25,M,KwaZulu-Natal,2021-05-10,Medium,Verified
+1129,James Wilson,1981-10-21,M,Free State,2018-02-18,Low,Pending
+1130,Mason Rodriguez,1962-12-25,M,Free State,2024-06-22,Low,Verified
+1131,Emma Gonzalez,1987-04-02,F,Mpumalanga,2016-12-18,Low,Verified
+1132,Grace Lopez,1963-04-21,F,Northern Cape,2023-10-03,Low,Pending
+1133,Grace Thomas,1951-08-19,F,Northern Cape,2023-02-01,Low,Verified
+1134,Grace Davis,1965-06-09,M,Limpopo,2021-12-22,Low,Verified
+1135,Liam Johnson,1973-05-07,F,Eastern Cape,2015-12-09,Low,Verified
+1136,Liam Jones,1982-12-29,M,Eastern Cape,2023-03-14,Low,Verified
+1137,Olivia Garcia,1961-05-28,F,KwaZulu-Natal,2019-01-16,Low,Verified
+1138,Grace Miller,2002-11-23,F,KwaZulu-Natal,2018-10-08,Low,Verified
+1139,Lucas Hernandez,1975-10-06,M,Northern Cape,2016-08-07,High,Verified
+1140,Chloe Taylor,1987-01-17,M,KwaZulu-Natal,2017-11-24,Low,Pending
+1141,Lucas Lopez,1973-02-20,M,KwaZulu-Natal,2017-11-10,Low,Verified
+1142,James Hernandez,1996-02-04,M,Western Cape,2017-10-30,Medium,Verified
+1143,Emma Martinez,1975-10-10,F,North West,2018-12-01,Medium,Verified
+1144,Sophia Martin,1987-10-01,F,Northern Cape,2019-04-23,Low,Verified
+1145,Charlotte Jones,1974-07-21,F,KwaZulu-Natal,2018-02-17,Low,Pending
+1146,Jacob Moore,1988-11-22,F,Free State,2021-05-05,Low,Suspended
+1147,Emma Hernandez,1980-02-19,Other,KwaZulu-Natal,2020-03-30,Medium,Verified
+1148,Ethan Wilson,1993-08-01,M,Mpumalanga,2015-02-25,Low,Pending
+1149,Liam Gonzalez,1969-05-01,M,Mpumalanga,2016-09-02,Low,Verified
+1150,Noah Jones,1994-01-31,F,KwaZulu-Natal,2016-06-17,Low,Verified
+1151,James Williams,1986-01-21,M,Gauteng,2017-11-01,Low,Pending
+1152,Chloe Jackson,1988-02-21,F,Mpumalanga,2017-07-14,High,Verified
+1153,Michael Brown,1958-03-14,M,KwaZulu-Natal,2017-03-15,Medium,Pending
+1154,Jacob Moore,1955-10-13,M,Eastern Cape,2015-10-16,Low,Verified
+1155,Sophia Jackson,1961-08-13,F,Eastern Cape,2023-12-28,High,Verified
+1156,Liam Rodriguez,1968-06-29,F,North West,2021-07-01,High,Verified
+1157,Amelia Martinez,1963-06-04,M,North West,2021-01-10,Low,Failed
+1158,Jacob Moore,1970-07-26,M,Gauteng,2021-12-08,Low,Verified
+1159,Emma Anderson,1952-05-06,M,Western Cape,2017-03-23,Medium,Verified
+1160,Lucas Williams,1959-04-07,F,KwaZulu-Natal,2021-02-02,Low,Verified
+1161,Ethan Martinez,1972-09-19,M,Northern Cape,2019-10-25,Medium,Verified
+1162,Ava Martin,1963-12-21,M,North West,2023-01-12,Low,Failed
+1163,Ava Brown,1993-01-16,F,KwaZulu-Natal,2024-10-11,Low,Verified
+1164,Isabella Williams,1958-11-17,M,Eastern Cape,2017-09-09,Low,Verified
+1165,Ethan Miller,1985-10-22,F,Mpumalanga,2021-06-23,Low,Failed
+1166,Sophia Jackson,1966-10-25,F,KwaZulu-Natal,2016-07-24,Low,Verified
+1167,Isabella Garcia,1950-04-09,F,Limpopo,2021-03-18,Medium,Verified
+1168,Emma Anderson,1957-12-31,F,Mpumalanga,2020-03-01,Low,Verified
+1169,Olivia Davis,1988-05-15,M,Western Cape,2019-05-22,Medium,Failed
+1170,Olivia Williams,1954-07-25,M,Free State,2022-12-24,Low,Verified
+1171,Isabella Gonzalez,1999-04-23,M,North West,2017-03-13,High,Verified
+1172,Grace Martinez,1969-08-01,M,Gauteng,2015-12-05,Low,Verified
+1173,Grace Rodriguez,1997-12-14,M,Northern Cape,2022-01-05,Low,Verified
+1174,Charlotte Hernandez,1987-11-07,Other,North West,2015-11-13,Low,Verified
+1175,Emma Miller,1981-02-07,F,Eastern Cape,2016-09-19,Medium,Pending
+1176,James Johnson,1954-03-22,F,Eastern Cape,2023-10-26,Low,Pending
+1177,Ava Smith,1959-04-04,F,Eastern Cape,2022-06-26,High,Verified
+1178,Mia Martin,1999-08-07,F,Gauteng,2015-08-24,Medium,Verified
+1179,James Anderson,1987-08-25,M,Limpopo,2015-05-04,Low,Pending
+1180,Michael Hernandez,1960-08-23,M,Gauteng,2023-05-16,Medium,Pending
+1181,Michael Brown,1973-10-21,F,Limpopo,2019-07-19,Medium,Verified
+1182,Liam Hernandez,1975-01-04,M,Northern Cape,2019-04-17,Low,Verified
+1183,Chloe Anderson,1966-01-23,M,Eastern Cape,2019-09-06,Low,Verified
+1184,Emma Rodriguez,1993-01-14,F,Western Cape,2022-08-27,Medium,Verified
+1185,Mason Martin,1954-04-12,F,Western Cape,2016-07-17,Low,Pending
+1186,Grace Thomas,1969-03-21,F,Western Cape,2021-08-17,High,Verified
+1187,Amelia Rodriguez,1957-10-28,M,Free State,2021-09-10,Low,Pending
+1188,Olivia Moore,1984-12-18,M,Mpumalanga,2016-06-13,Low,Verified
+1189,Mason Martinez,1961-02-08,F,Western Cape,2022-07-18,Medium,Verified
+1190,Mason Davis,1990-02-16,F,North West,2021-01-14,High,Suspended
+1191,Amelia Brown,1976-05-25,M,Northern Cape,2021-02-15,Low,Verified
+1192,Lucas Brown,1995-07-24,F,North West,2015-10-31,Low,Verified
+1193,Alexander Brown,1994-09-04,F,Limpopo,2017-09-15,Low,Verified
+1194,Jacob Hernandez,1985-04-07,F,KwaZulu-Natal,2024-07-13,Low,Verified
+1195,Sophia Gonzalez,1960-06-03,F,Free State,2019-04-13,Low,Verified
+1196,Mia Johnson,2004-05-18,F,Mpumalanga,2016-07-25,Medium,Verified
+1197,James Garcia,1992-12-28,F,Mpumalanga,2018-03-16,Low,Verified
+1198,James Jackson,1959-06-30,M,Free State,2017-04-09,Medium,Verified
+1199,Mia Davis,1963-05-19,F,Free State,2022-06-03,Low,Verified
+1200,James Williams,1984-08-30,F,Free State,2023-01-23,Low,Pending
+1201,Grace Martin,1968-01-19,F,Mpumalanga,2019-06-15,Low,Verified
+1202,Jacob Martin,1964-12-29,M,Northern Cape,2019-01-01,Low,Failed
+1203,Liam Davis,1996-09-19,F,Eastern Cape,2023-05-27,Low,Verified
+1204,Sophia Smith,1973-02-10,M,Eastern Cape,2024-05-27,Low,Pending
+1205,Sophia Gonzalez,1987-05-18,F,Western Cape,2016-12-31,Medium,Failed
+1206,Liam Rodriguez,1998-02-25,F,KwaZulu-Natal,2017-07-11,Low,Pending
+1207,Grace Brown,1975-11-22,F,Eastern Cape,2018-05-04,Low,Pending
+1208,Liam Smith,1994-03-08,F,Eastern Cape,2022-12-15,Low,Verified
+1209,Ava Martinez,1998-11-16,F,Gauteng,2016-08-12,Low,Verified
+1210,Amelia Thomas,1969-04-03,M,Eastern Cape,2018-11-25,Low,Verified
+1211,Charlotte Jones,1980-03-29,M,Free State,2020-07-08,Low,Verified
+1212,Emma Taylor,1993-08-07,F,North West,2021-01-01,Low,Verified
+1213,James Brown,1959-03-25,F,North West,2018-04-10,Low,Verified
+1214,Daniel Garcia,1950-10-08,M,Western Cape,2015-12-29,Low,Verified
+1215,Olivia Jones,1981-02-13,F,Gauteng,2020-10-07,Low,Verified
+1216,Noah Hernandez,1974-01-01,M,KwaZulu-Natal,2024-04-11,Low,Verified
+1217,Mia Williams,1955-01-24,M,Northern Cape,2018-05-09,Low,Verified
+1218,Daniel Martin,1998-06-30,F,Gauteng,2017-05-05,Medium,Verified
+1219,Mia Jones,1989-07-01,M,Gauteng,2022-11-29,High,Verified
+1220,Mason Jones,1976-11-25,F,Free State,2020-03-13,Medium,Verified
+1221,Grace Johnson,1959-01-15,F,Limpopo,2015-03-31,Medium,Pending
+1222,James Martin,1970-07-04,F,Free State,2018-04-04,Medium,Verified
+1223,Grace Miller,1995-07-30,F,KwaZulu-Natal,2023-12-24,Medium,Verified
+1224,Olivia Martinez,1974-08-19,M,Eastern Cape,2024-02-01,Low,Verified
+1225,Isabella Moore,1974-04-03,F,Mpumalanga,2021-12-23,Low,Verified
+1226,Olivia Johnson,1972-02-07,M,Free State,2021-08-24,Low,Verified
+1227,Sophia Rodriguez,1986-12-06,M,Mpumalanga,2016-02-27,Medium,Verified
+1228,Liam Anderson,1963-04-23,F,Gauteng,2021-11-24,Low,Verified
+1229,Isabella Moore,1961-09-06,F,Northern Cape,2019-03-07,Low,Verified
+1230,Lucas Moore,1972-12-29,M,North West,2023-06-19,Low,Verified
+1231,Alexander Moore,1967-07-10,F,KwaZulu-Natal,2019-12-22,Low,Verified
+1232,Alexander Smith,1986-07-31,M,Northern Cape,2017-11-10,Low,Verified
+1233,Michael Hernandez,2000-04-25,M,Mpumalanga,2021-12-07,Medium,Verified
+1234,Olivia Rodriguez,2003-09-11,F,Gauteng,2015-08-27,Low,Verified
+1235,Charlotte Smith,1955-03-30,F,Mpumalanga,2015-08-02,Low,Verified
+1236,Isabella Jackson,1997-10-19,F,Western Cape,2024-04-16,Low,Verified
+1237,Ava Johnson,2004-08-20,F,Eastern Cape,2023-10-06,Medium,Verified
+1238,Amelia Jackson,1995-09-12,F,Western Cape,2018-07-16,Low,Verified
+1239,Noah Jackson,1963-05-10,F,Free State,2016-10-16,Medium,Failed
+1240,Noah Jones,1987-02-15,F,KwaZulu-Natal,2024-02-10,High,Verified
+1241,Lucas Rodriguez,1974-03-28,F,Gauteng,2016-06-26,Low,Verified
+1242,Michael Jackson,1975-02-07,F,Mpumalanga,2022-01-21,Low,Verified
+1243,Michael Garcia,1993-01-28,F,KwaZulu-Natal,2024-03-20,Low,Verified
+1244,Chloe Brown,1977-06-08,M,KwaZulu-Natal,2016-02-28,Low,Verified
+1245,Sophia Thomas,1973-12-16,M,Limpopo,2016-04-05,Low,Verified
+1246,Ava Garcia,1994-01-29,M,Gauteng,2024-07-29,Low,Verified
+1247,Daniel Hernandez,1969-03-27,M,North West,2019-11-18,Low,Verified
+1248,Daniel Anderson,1994-09-30,F,Gauteng,2022-02-07,Low,Verified
+1249,Sophia Davis,1982-12-27,F,North West,2021-07-30,Low,Verified
+1250,James Thomas,2003-09-28,F,Western Cape,2017-10-04,Medium,Verified
+1251,Charlotte Davis,1992-03-19,M,Free State,2023-05-09,Low,Verified
+1252,Isabella Hernandez,1971-09-06,M,Western Cape,2017-05-01,Low,Verified
+1253,Grace Martin,1980-05-11,M,North West,2020-08-27,Low,Verified
+1254,Lucas Davis,1965-10-21,M,Northern Cape,2020-09-10,Medium,Verified
+1255,Ethan Brown,2004-05-05,F,Northern Cape,2019-06-14,Low,Verified
+1256,Daniel Lopez,1966-04-04,F,Western Cape,2016-05-12,Low,Verified
+1257,Olivia Taylor,2002-01-31,M,KwaZulu-Natal,2022-12-09,High,Verified
+1258,Mason Martinez,1990-06-22,M,Northern Cape,2017-05-19,Low,Verified
+1259,Mia Martinez,1997-12-23,M,Free State,2024-03-09,Low,Verified
+1260,Grace Lopez,1963-05-29,M,Northern Cape,2019-04-22,Medium,Verified
+1261,Olivia Anderson,1955-03-21,M,Free State,2022-05-30,Low,Verified
+1262,Chloe Brown,1995-03-19,M,Eastern Cape,2020-10-20,Low,Pending
+1263,Emma Martin,1979-04-01,F,Northern Cape,2016-07-02,Low,Verified
+1264,Daniel Jackson,1997-05-31,F,Free State,2024-02-16,Low,Verified
+1265,Michael Garcia,1962-02-12,F,North West,2023-01-12,Low,Verified
+1266,Noah Rodriguez,1969-02-15,F,Mpumalanga,2021-06-26,Low,Verified
+1267,Isabella Miller,1978-04-17,F,North West,2017-11-08,Low,Verified
+1268,Jacob Johnson,1994-04-18,F,Western Cape,2023-02-17,Medium,Verified
+1269,Charlotte Gonzalez,1993-02-05,F,Western Cape,2015-01-15,Low,Verified
+1270,Amelia Gonzalez,1979-08-11,F,Eastern Cape,2023-01-18,Medium,Verified
+1271,Daniel Garcia,1960-08-15,M,Mpumalanga,2016-05-10,Low,Verified
+1272,Grace Johnson,1961-06-23,M,Western Cape,2024-01-26,Low,Verified
+1273,Daniel Brown,1962-07-28,M,Western Cape,2017-04-05,Medium,Verified
+1274,Lucas Williams,1973-01-03,F,Mpumalanga,2023-07-24,Medium,Verified
+1275,Lucas Brown,1970-03-10,F,Western Cape,2021-04-23,Medium,Verified
+1276,Noah Martin,1957-11-24,M,Eastern Cape,2019-03-29,Low,Verified
+1277,Liam Anderson,1998-05-05,F,Western Cape,2022-06-08,Low,Verified
+1278,Sophia Gonzalez,1954-06-28,F,Western Cape,2020-05-28,Low,Verified
+1279,Isabella Gonzalez,2000-07-07,M,Gauteng,2021-02-10,High,Verified
+1280,Olivia Hernandez,1965-06-09,F,Northern Cape,2021-11-18,High,Verified
+1281,Alexander Jones,1960-06-02,M,Free State,2017-08-02,Low,Verified
+1282,Chloe Thomas,1970-04-19,F,Eastern Cape,2018-01-01,Low,Verified
+1283,Mason Williams,2000-07-13,M,Western Cape,2015-06-04,Low,Verified
+1284,Isabella Martin,1967-11-22,F,Limpopo,2022-02-28,Low,Verified
+1285,Grace Wilson,1995-02-16,F,North West,2016-11-18,Low,Verified
+1286,Emma Martinez,2000-12-02,M,Gauteng,2022-07-13,Medium,Verified
+1287,Lucas Davis,1977-08-15,M,Free State,2022-07-09,Medium,Failed
+1288,Michael Moore,1987-11-19,M,Northern Cape,2021-03-20,Low,Verified
+1289,Ava Miller,1979-05-25,M,Limpopo,2020-08-21,Low,Verified
+1290,Daniel Anderson,1950-05-19,M,Free State,2017-08-12,Medium,Verified
+1291,Jacob Smith,1951-10-20,F,Gauteng,2024-08-04,Low,Verified
+1292,Ava Martin,1977-05-23,F,Gauteng,2019-08-09,Medium,Pending
+1293,Sophia Rodriguez,1969-10-05,M,Limpopo,2018-01-26,Low,Pending
+1294,Mason Garcia,1957-08-03,Other,North West,2023-08-16,Low,Verified
+1295,Mia Jones,1970-02-21,M,North West,2022-06-03,Medium,Verified
+1296,Grace Miller,1975-02-19,F,Eastern Cape,2019-09-22,Low,Verified
+1297,Lucas Martinez,1980-08-07,F,Limpopo,2019-06-21,Low,Verified
+1298,Jacob Rodriguez,1974-02-21,M,Mpumalanga,2018-01-19,Low,Verified
+1299,Alexander Garcia,2003-12-07,M,North West,2020-07-16,Low,Verified
+1300,Grace Lopez,1996-07-05,M,North West,2016-02-05,Low,Verified
+1301,Charlotte Wilson,1984-01-11,M,Northern Cape,2022-07-04,Low,Verified
+1302,Emma Miller,1952-01-28,M,Gauteng,2024-04-26,Low,Verified
+1303,Jacob Gonzalez,1960-11-30,M,Limpopo,2024-05-08,Low,Verified
+1304,Mason Martinez,1979-08-05,M,Northern Cape,2016-06-14,Low,Verified
+1305,Emma Smith,1981-02-18,F,KwaZulu-Natal,2017-02-03,Medium,Pending
+1306,Emma Jackson,1962-07-06,F,North West,2021-04-10,Low,Pending
+1307,Ava Moore,1960-03-04,M,North West,2015-03-07,Low,Verified
+1308,Mia Jones,1972-07-02,F,Limpopo,2020-02-03,Low,Verified
+1309,Liam Taylor,1962-11-08,F,KwaZulu-Natal,2023-06-15,Low,Verified
+1310,Amelia Jackson,2001-07-01,M,Mpumalanga,2015-07-03,Medium,Pending
+1311,Mia Wilson,1953-09-06,M,Northern Cape,2020-06-23,Medium,Verified
+1312,Daniel Lopez,1981-02-17,F,Free State,2017-05-27,Low,Verified
+1313,Daniel Hernandez,1956-12-10,F,Free State,2019-06-02,Low,Failed
+1314,Ava Williams,1958-03-28,M,Northern Cape,2024-03-24,Low,Verified
+1315,Alexander Anderson,1959-04-05,F,Free State,2023-03-10,Low,Verified
+1316,Amelia Martinez,1976-11-29,F,North West,2021-01-15,Low,Verified
+1317,Grace Gonzalez,1978-06-11,F,Eastern Cape,2024-03-22,Medium,Pending
+1318,James Jackson,1972-05-02,F,Limpopo,2018-10-09,Low,Verified
+1319,Charlotte Williams,1974-03-01,M,Gauteng,2017-09-24,Low,Verified
+1320,Michael Gonzalez,1997-07-07,M,Western Cape,2016-01-21,Medium,Failed
+1321,Mason Moore,1954-06-19,F,KwaZulu-Natal,2015-11-12,Low,Verified
+1322,Ava Rodriguez,1982-06-16,F,North West,2022-08-09,High,Verified
+1323,Chloe Taylor,1952-10-18,F,Western Cape,2023-05-15,Low,Verified
+1324,Mason Anderson,1957-01-10,F,Mpumalanga,2015-06-24,High,Verified
+1325,Chloe Taylor,1962-06-22,M,Limpopo,2024-06-28,Medium,Verified
+1326,Isabella Martinez,1985-10-29,F,Limpopo,2019-09-28,Low,Pending
+1327,Olivia Anderson,1983-05-19,F,Northern Cape,2024-05-08,Low,Verified
+1328,Chloe Taylor,1971-09-19,F,Limpopo,2019-12-15,Medium,Verified
+1329,Mason Lopez,1958-06-03,M,KwaZulu-Natal,2017-02-12,Low,Verified
+1330,Daniel Smith,1979-07-02,M,Western Cape,2016-12-10,Low,Suspended
+1331,Michael Jackson,1974-07-20,M,Northern Cape,2021-09-04,Low,Pending
+1332,Isabella Gonzalez,1950-09-18,M,KwaZulu-Natal,2020-08-18,Medium,Verified
+1333,James Martin,1996-03-23,M,North West,2017-02-17,Medium,Verified
+1334,Jacob Brown,1978-11-15,F,Gauteng,2024-07-02,Low,Verified
+1335,Charlotte Davis,1960-01-25,M,North West,2020-09-18,High,Verified
+1336,Mia Smith,1981-08-12,M,North West,2019-04-26,Low,Verified
+1337,Isabella Jones,1961-04-18,F,Mpumalanga,2020-11-07,Medium,Verified
+1338,Michael Rodriguez,2004-05-19,M,Northern Cape,2019-01-16,High,Verified
+1339,Olivia Brown,1974-04-27,F,Mpumalanga,2017-03-18,Medium,Verified
+1340,Chloe Smith,1986-05-08,F,KwaZulu-Natal,2017-08-11,Low,Verified
+1341,Amelia Rodriguez,1958-03-04,F,Gauteng,2019-01-13,Low,Verified
+1342,Isabella Moore,2001-09-25,F,Northern Cape,2022-05-21,Medium,Verified
+1343,Mia Jones,1997-05-06,M,Eastern Cape,2024-11-03,Low,Failed
+1344,Alexander Rodriguez,1992-08-31,F,Limpopo,2021-07-28,Low,Verified
+1345,Charlotte Garcia,2000-08-21,F,Western Cape,2023-06-29,Medium,Verified
+1346,Alexander Taylor,1987-07-26,F,North West,2023-09-18,Low,Verified
+1347,Ethan Rodriguez,1998-01-24,F,Limpopo,2015-09-22,Low,Verified
+1348,Daniel Williams,1985-04-30,F,Gauteng,2018-10-28,Low,Verified
+1349,Jacob Wilson,1977-01-05,F,Limpopo,2015-08-01,Medium,Failed
+1350,Liam Lopez,1969-09-07,M,Northern Cape,2020-02-21,Medium,Verified
+1351,Liam Anderson,1977-02-25,M,Gauteng,2015-07-01,Low,Verified
+1352,Ava Garcia,1999-04-07,M,Free State,2024-05-09,Low,Pending
+1353,Daniel Garcia,1961-12-11,F,Western Cape,2021-11-06,Medium,Verified
+1354,Liam Gonzalez,1954-11-03,M,Western Cape,2016-12-25,Low,Failed
+1355,Lucas Martin,2003-11-02,F,Mpumalanga,2024-12-29,Low,Verified
+1356,Mia Miller,1995-08-16,F,North West,2016-08-27,Low,Verified
+1357,Daniel Miller,1959-11-10,M,Western Cape,2024-07-29,Low,Verified
+1358,Sophia Hernandez,1965-09-18,M,North West,2018-03-15,Low,Verified
+1359,Lucas Brown,1971-08-02,M,Northern Cape,2020-04-05,Low,Verified
+1360,Liam Taylor,1969-04-16,Other,Mpumalanga,2015-06-26,Low,Verified
+1361,Amelia Anderson,1988-12-28,F,Gauteng,2021-07-17,Low,Verified
+1362,Daniel Moore,1974-08-17,F,Eastern Cape,2020-08-14,Low,Pending
+1363,Ethan Garcia,1998-12-24,F,KwaZulu-Natal,2015-09-23,Low,Failed
+1364,Mia Moore,1951-10-17,F,Gauteng,2024-09-17,Low,Verified
+1365,Lucas Lopez,1972-06-19,F,Western Cape,2024-05-15,Low,Verified
+1366,Chloe Davis,1998-05-05,F,Gauteng,2021-05-05,Low,Verified
+1367,Michael Moore,1974-04-22,M,Western Cape,2019-06-12,Low,Verified
+1368,Michael Garcia,1997-07-24,F,Northern Cape,2016-01-12,Medium,Verified
+1369,Charlotte Rodriguez,1973-06-25,F,Northern Cape,2019-06-27,Medium,Verified
+1370,Chloe Hernandez,1992-06-15,F,Limpopo,2023-12-08,High,Pending
+1371,Sophia Rodriguez,1961-04-24,M,Eastern Cape,2020-09-27,Low,Verified
+1372,Chloe Davis,1986-03-07,M,KwaZulu-Natal,2024-06-11,Low,Verified
+1373,Ava Martin,1959-04-23,Other,Northern Cape,2021-06-02,Low,Verified
+1374,Michael Hernandez,1983-07-05,M,KwaZulu-Natal,2022-03-31,Low,Pending
+1375,Isabella Davis,1956-03-13,M,Eastern Cape,2018-05-19,Low,Verified
+1376,Lucas Miller,1998-10-28,M,Eastern Cape,2019-06-04,Medium,Verified
+1377,Liam Garcia,1982-07-31,F,Western Cape,2018-01-02,Low,Verified
+1378,Jacob Anderson,1998-11-15,F,Northern Cape,2018-12-13,Medium,Verified
+1379,Jacob Jones,1999-11-02,F,Mpumalanga,2020-04-11,Medium,Verified
+1380,Chloe Rodriguez,1995-07-09,F,Free State,2015-07-21,Medium,Verified
+1381,Alexander Taylor,2002-02-09,M,Limpopo,2021-03-11,Low,Pending
+1382,Olivia Jones,1952-09-23,M,KwaZulu-Natal,2024-10-10,Medium,Pending
+1383,Noah Anderson,1977-08-23,F,Limpopo,2020-05-08,Medium,Suspended
+1384,Amelia Martinez,1989-12-19,F,Eastern Cape,2015-03-13,Low,Verified
+1385,Michael Davis,1961-11-11,F,Western Cape,2019-10-15,Low,Verified
+1386,Emma Miller,1963-12-23,F,Limpopo,2018-06-01,Medium,Verified
+1387,Mia Brown,1956-09-02,M,Gauteng,2021-08-08,Low,Verified
+1388,Emma Davis,2001-12-20,F,Gauteng,2023-05-26,Medium,Verified
+1389,Michael Hernandez,1962-09-25,F,Free State,2018-07-23,Medium,Pending
+1390,Charlotte Williams,1969-05-27,F,Limpopo,2023-12-02,Low,Verified
+1391,Olivia Johnson,1993-06-06,M,North West,2016-09-03,Low,Verified
+1392,Ethan Martin,1980-02-05,F,Free State,2021-09-07,Low,Verified
+1393,Ava Miller,1982-10-03,M,Free State,2021-08-10,Medium,Verified
+1394,Ethan Thomas,1976-03-24,F,Western Cape,2021-03-26,High,Verified
+1395,Daniel Martin,1964-05-02,F,KwaZulu-Natal,2024-07-17,Low,Verified
+1396,Alexander Hernandez,1963-12-17,M,Eastern Cape,2018-02-11,Medium,Verified
+1397,Lucas Williams,1984-03-31,F,Gauteng,2015-09-27,Low,Verified
+1398,Chloe Garcia,1989-06-13,F,Free State,2024-09-13,Low,Verified
+1399,Emma Davis,1986-05-24,M,Free State,2021-10-22,Low,Failed
+1400,Michael Davis,1960-07-29,M,Mpumalanga,2023-10-30,High,Verified
+1401,Charlotte Anderson,2003-12-02,M,Mpumalanga,2023-11-14,Medium,Verified
+1402,Michael Garcia,1963-01-09,M,Northern Cape,2023-09-13,Low,Verified
+1403,Sophia Davis,1974-03-15,M,KwaZulu-Natal,2019-01-18,High,Verified
+1404,Mia Anderson,1976-06-29,F,KwaZulu-Natal,2019-08-28,Medium,Verified
+1405,Grace Jackson,2004-02-28,F,Eastern Cape,2019-05-21,Low,Verified
+1406,Michael Miller,1950-09-26,F,Eastern Cape,2020-10-30,Medium,Verified
+1407,Alexander Rodriguez,1998-03-15,M,Gauteng,2023-11-14,Medium,Verified
+1408,James Thomas,1950-11-14,M,Mpumalanga,2015-04-07,Medium,Verified
+1409,Jacob Williams,1961-11-23,M,Western Cape,2021-06-15,Low,Verified
+1410,Mason Brown,1984-01-18,F,North West,2021-07-10,Low,Verified
+1411,Ethan Smith,2000-05-30,F,Mpumalanga,2016-04-09,Low,Verified
+1412,Ava Thomas,1959-01-28,M,Eastern Cape,2015-06-01,Low,Verified
+1413,James Gonzalez,1991-03-24,M,Eastern Cape,2021-06-08,Medium,Verified
+1414,Jacob Martinez,1952-09-22,F,Limpopo,2020-12-09,Low,Verified
+1415,Mason Gonzalez,1988-10-02,M,KwaZulu-Natal,2015-02-28,High,Verified
+1416,Olivia Jones,2003-09-13,F,Northern Cape,2016-02-18,Low,Verified
+1417,Ava Smith,1987-11-20,M,Free State,2018-09-22,Low,Verified
+1418,Michael Jones,1974-10-08,F,Western Cape,2018-10-11,High,Verified
+1419,Grace Johnson,1983-03-17,M,North West,2019-02-17,Low,Verified
+1420,Jacob Gonzalez,1986-08-23,M,Gauteng,2023-06-01,Medium,Pending
+1421,Lucas Jones,1986-06-09,M,North West,2021-03-06,Low,Verified
+1422,Liam Anderson,2004-05-07,M,Limpopo,2015-05-22,High,Verified
+1423,Mia Smith,1991-06-13,M,Limpopo,2022-02-24,Low,Verified
+1424,Ethan Moore,1954-10-12,M,Limpopo,2019-02-25,Medium,Verified
+1425,Ethan Taylor,1958-11-25,M,Eastern Cape,2021-07-14,Low,Verified
+1426,Noah Johnson,1992-03-26,F,KwaZulu-Natal,2015-10-31,Medium,Verified
+1427,Lucas Williams,1953-05-10,M,Free State,2020-06-09,Medium,Verified
+1428,Isabella Brown,1950-01-20,M,Gauteng,2022-02-11,Low,Verified
+1429,Mason Smith,1953-10-10,M,Free State,2015-12-10,Low,Verified
+1430,Charlotte Jones,1959-12-21,F,North West,2024-07-01,Medium,Verified
+1431,Lucas Miller,2002-09-12,M,Northern Cape,2021-01-19,Low,Suspended
+1432,Alexander Gonzalez,1962-07-10,F,Gauteng,2020-01-02,Medium,Verified
+1433,James Rodriguez,1997-08-03,M,KwaZulu-Natal,2018-10-02,Low,Verified
+1434,Lucas Davis,1995-08-01,M,Eastern Cape,2020-08-10,Medium,Verified
+1435,Sophia Johnson,1981-12-18,F,North West,2024-02-02,Low,Verified
+1436,Jacob Jackson,1999-06-09,M,Western Cape,2021-02-06,Low,Verified
+1437,Olivia Lopez,1974-04-21,M,Limpopo,2015-01-14,High,Verified
+1438,Isabella Martin,2000-12-23,F,Free State,2016-10-20,Low,Verified
+1439,Grace Taylor,1981-12-23,F,Eastern Cape,2018-08-24,Low,Pending
+1440,Ethan Lopez,1992-07-08,M,Northern Cape,2019-01-18,Low,Verified
+1441,Grace Wilson,1971-12-30,F,Mpumalanga,2017-05-26,High,Failed
+1442,Grace Miller,1971-07-08,F,Western Cape,2016-08-21,Low,Verified
+1443,Grace Wilson,1959-06-21,F,Eastern Cape,2021-07-04,High,Pending
+1444,Liam Rodriguez,2000-06-14,M,Eastern Cape,2016-08-30,Low,Verified
+1445,Chloe Brown,1982-02-03,M,North West,2021-08-11,Medium,Verified
+1446,Lucas Garcia,1964-03-26,M,Western Cape,2016-03-17,Low,Verified
+1447,Emma Jones,1960-06-11,M,KwaZulu-Natal,2019-07-13,Low,Verified
+1448,Ethan Miller,1953-08-22,F,North West,2018-07-23,Medium,Verified
+1449,Isabella Johnson,1978-02-22,M,Mpumalanga,2024-09-20,Low,Suspended
+1450,Ethan Brown,1987-11-24,F,Free State,2020-09-14,Low,Verified
+1451,Daniel Thomas,1981-01-24,F,Free State,2019-09-20,Low,Verified
+1452,Daniel Lopez,1972-09-28,M,Northern Cape,2024-03-18,Medium,Pending
+1453,Emma Hernandez,1954-12-30,F,Free State,2019-01-14,Low,Pending
+1454,Ethan Jones,1989-01-05,M,Gauteng,2018-10-30,Medium,Verified
+1455,Grace Johnson,1987-03-24,M,Free State,2024-07-21,High,Verified
+1456,Alexander Jones,1983-10-05,Other,KwaZulu-Natal,2017-11-30,Low,Suspended
+1457,Michael Anderson,1982-03-09,Other,Free State,2021-10-29,Low,Pending
+1458,Ava Taylor,1976-05-15,F,KwaZulu-Natal,2019-02-18,High,Verified
+1459,Lucas Brown,1980-08-12,F,Gauteng,2015-06-04,High,Verified
+1460,Lucas Hernandez,1989-07-26,Other,Limpopo,2022-12-22,Medium,Verified
+1461,Liam Martinez,1971-05-11,F,Free State,2015-09-17,High,Verified
+1462,Ethan Gonzalez,2004-09-10,F,Free State,2023-08-10,Medium,Suspended
+1463,Ethan Rodriguez,1996-07-24,M,Western Cape,2022-01-27,Low,Verified
+1464,James Jones,1962-12-14,M,Eastern Cape,2017-10-07,Low,Verified
+1465,Lucas Gonzalez,1955-01-11,F,Limpopo,2024-03-12,Low,Verified
+1466,Emma Martinez,1980-08-21,M,North West,2023-11-12,Low,Verified
+1467,Emma Wilson,1960-03-08,F,Free State,2017-12-23,Low,Verified
+1468,Sophia Taylor,1996-01-11,F,Limpopo,2023-06-18,Low,Verified
+1469,Grace Miller,1965-06-13,M,Northern Cape,2019-06-15,High,Verified
+1470,James Hernandez,1998-09-20,F,Western Cape,2021-03-04,Medium,Verified
+1471,Daniel Gonzalez,1993-09-24,M,Mpumalanga,2018-03-08,Low,Verified
+1472,Jacob Thomas,1980-08-04,M,KwaZulu-Natal,2021-06-08,Low,Verified
+1473,Emma Jones,1960-11-24,M,Northern Cape,2023-10-24,Low,Verified
+1474,Alexander Taylor,2002-04-14,M,Northern Cape,2021-12-08,Low,Verified
+1475,Grace Jackson,1951-12-11,F,Limpopo,2015-12-08,Low,Verified
+1476,Daniel Moore,1993-02-01,F,Gauteng,2015-11-03,Low,Verified
+1477,Ava Martinez,1968-10-08,F,Northern Cape,2022-12-12,Medium,Verified
+1478,Olivia Miller,1984-05-19,Other,Western Cape,2016-11-28,Low,Verified
+1479,Amelia Gonzalez,1965-09-03,F,Mpumalanga,2017-12-30,Medium,Verified
+1480,Daniel Hernandez,1985-08-21,F,North West,2019-08-22,Medium,Pending
+1481,Emma Wilson,1970-06-09,M,Limpopo,2015-12-08,Low,Verified
+1482,Amelia Jones,1958-12-11,M,Western Cape,2016-06-01,Low,Verified
+1483,Jacob Brown,1972-04-13,M,Limpopo,2018-03-02,Low,Verified
+1484,Ethan Martinez,1980-02-10,F,KwaZulu-Natal,2021-03-06,High,Verified
+1485,Grace Hernandez,1979-07-10,M,Western Cape,2023-02-22,High,Pending
+1486,Isabella Martinez,1971-12-30,F,Free State,2022-03-10,Low,Verified
+1487,James Lopez,1991-05-22,M,Free State,2017-12-12,Medium,Failed
+1488,Lucas Hernandez,1992-04-09,F,Gauteng,2017-08-19,Medium,Verified
+1489,Daniel Taylor,1983-02-26,M,North West,2017-05-12,Medium,Verified
+1490,Ava Taylor,1994-03-13,F,KwaZulu-Natal,2016-02-09,Low,Verified
+1491,Emma Jones,1967-05-21,F,Northern Cape,2018-02-09,Low,Verified
+1492,James Hernandez,1988-10-03,F,Free State,2023-02-04,Low,Verified
+1493,James Jackson,1989-07-12,F,North West,2020-05-21,Low,Verified
+1494,Liam Anderson,1985-10-13,F,Eastern Cape,2015-07-12,Medium,Verified
+1495,Lucas Thomas,1998-08-18,M,Northern Cape,2023-04-10,Medium,Verified
+1496,Alexander Lopez,1960-10-20,F,Gauteng,2020-09-28,High,Verified
+1497,Michael Brown,2001-04-07,F,Free State,2018-05-19,Medium,Pending
+1498,Jacob Johnson,1993-10-21,M,Gauteng,2023-10-31,Low,Verified
+1499,Noah Johnson,1973-11-27,F,Free State,2024-10-17,Low,Failed
+1500,Daniel Thomas,1961-03-27,F,Western Cape,2024-02-04,Low,Pending
