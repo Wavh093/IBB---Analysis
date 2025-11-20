@@ -1,0 +1,298 @@
+﻿CUSTOMER_ID,FULL_NAME,LATEST_TRANSACTION,USER_STATUS
+1001,Noah Jackson,2024-09-27,Inactive User
+1010,Lucas Davis,2024-06-29,Inactive User
+1018,Alexander Thomas,2025-05-25,Inactive User
+1027,Isabella Taylor,2025-02-18,Inactive User
+1037,Alexander Taylor,2025-05-05,Inactive User
+1084,James Thomas,2025-10-22,Active
+1094,Michael Jones,2025-11-06,Active
+1073,Liam Brown,2025-06-08,Inactive User
+1131,Emma Gonzalez,2024-02-06,Inactive User
+1261,Olivia Anderson,2025-09-26,Active
+1091,Mason Martin,2025-08-19,Active
+1125,Michael Martinez,2025-02-05,Inactive User
+1154,Jacob Moore,2025-09-22,Active
+1163,Ava Brown,2024-09-05,Inactive User
+1213,James Brown,2024-05-21,Inactive User
+1194,Jacob Hernandez,2024-03-06,Inactive User
+1419,Grace Johnson,2024-10-19,Inactive User
+1121,Emma Gonzalez,2025-07-29,Inactive User
+1316,Amelia Martinez,2025-04-08,Inactive User
+1238,Amelia Jackson,2025-07-07,Inactive User
+1210,Amelia Thomas,2024-02-14,Inactive User
+1264,Daniel Jackson,2025-08-04,Inactive User
+1311,Mia Wilson,2024-09-02,Inactive User
+1324,Mason Anderson,2025-05-05,Inactive User
+1448,Ethan Miller,2024-11-10,Inactive User
+1240,Noah Jones,2025-08-08,Inactive User
+1041,Ava Thomas,2025-09-29,Active
+1042,Ethan Martinez,2025-04-02,Inactive User
+1079,Mia Brown,2025-01-02,Inactive User
+1250,James Thomas,2024-03-20,Inactive User
+1272,Grace Johnson,2024-09-23,Inactive User
+1063,Isabella Lopez,2024-08-09,Inactive User
+1123,Charlotte Smith,2024-12-26,Inactive User
+1147,Emma Hernandez,2025-08-21,Active
+1159,Emma Anderson,2025-06-27,Inactive User
+1066,Chloe Hernandez,2025-01-07,Inactive User
+1075,Ava Rodriguez,2025-11-02,Active
+1021,Sophia Anderson,2025-05-14,Inactive User
+1054,Ava Gonzalez,2025-10-31,Active
+1208,Liam Smith,2025-05-16,Inactive User
+1109,Jacob Rodriguez,2024-07-29,Inactive User
+1150,Noah Jones,2025-07-04,Inactive User
+1160,Lucas Williams,2025-06-14,Inactive User
+1399,Emma Davis,2024-11-05,Inactive User
+1468,Sophia Taylor,2024-06-14,Inactive User
+1106,Liam Brown,2025-10-10,Active
+1103,Ethan Martinez,2024-10-27,Inactive User
+1309,Liam Taylor,2025-07-14,Inactive User
+1345,Charlotte Garcia,2024-06-06,Inactive User
+1394,Ethan Thomas,2025-08-24,Active
+1430,Charlotte Jones,2024-04-03,Inactive User
+1461,Liam Martinez,2025-01-28,Inactive User
+1057,Mason Wilson,2024-12-13,Inactive User
+1151,James Williams,2025-02-17,Inactive User
+1242,Michael Jackson,2025-07-04,Inactive User
+1279,Isabella Gonzalez,2024-05-12,Inactive User
+1298,Jacob Rodriguez,2024-06-29,Inactive User
+1336,Mia Smith,2024-05-29,Inactive User
+1338,Michael Rodriguez,2025-02-14,Inactive User
+1353,Daniel Garcia,2024-12-21,Inactive User
+1423,Mia Smith,2025-06-29,Inactive User
+1460,Lucas Hernandez,2025-03-10,Inactive User
+1255,Ethan Brown,2024-12-26,Inactive User
+1304,Mason Martinez,2025-02-27,Inactive User
+1360,Liam Taylor,2025-02-06,Inactive User
+1387,Mia Brown,2025-09-24,Active
+1493,James Jackson,2024-02-13,Inactive User
+1388,Emma Davis,2025-02-11,Inactive User
+1478,Olivia Miller,2025-08-16,Active
+1002,Liam Rodriguez,2025-09-02,Active
+1023,Isabella Moore,2025-10-19,Active
+1046,Daniel Davis,2024-04-29,Inactive User
+1132,Grace Lopez,2025-08-13,Inactive User
+1100,Daniel Smith,2025-11-02,Active
+1486,Isabella Martinez,2025-10-31,Active
+1019,Grace Davis,2025-06-06,Inactive User
+1116,Michael Miller,2024-02-13,Inactive User
+1130,Mason Rodriguez,2024-06-09,Inactive User
+1252,Isabella Hernandez,2025-10-25,Active
+1361,Amelia Anderson,2025-06-30,Inactive User
+1228,Liam Anderson,2025-11-04,Active
+1234,Olivia Rodriguez,2024-02-26,Inactive User
+1410,Mason Brown,2024-11-18,Inactive User
+1192,Lucas Brown,2025-09-29,Active
+1301,Charlotte Wilson,2025-04-18,Inactive User
+1402,Michael Garcia,2025-05-19,Inactive User
+1274,Lucas Williams,2025-07-01,Inactive User
+1175,Emma Miller,2025-06-20,Inactive User
+1013,Ava Smith,2024-10-23,Inactive User
+1146,Jacob Moore,2024-09-25,Inactive User
+1202,Jacob Martin,2025-09-05,Active
+1286,Emma Martinez,2024-04-24,Inactive User
+1014,Grace Smith,2025-08-03,Inactive User
+1276,Noah Martin,2024-11-05,Inactive User
+1374,Michael Hernandez,2025-03-10,Inactive User
+1408,James Thomas,2024-02-13,Inactive User
+1412,Ava Thomas,2025-02-08,Inactive User
+1481,Emma Wilson,2025-05-14,Inactive User
+1351,Liam Anderson,2025-04-04,Inactive User
+1358,Sophia Hernandez,2025-08-05,Inactive User
+1203,Liam Davis,2025-10-05,Active
+1172,Grace Martinez,2025-07-06,Inactive User
+1176,James Johnson,2025-11-08,Active
+1188,Olivia Moore,2025-09-25,Active
+1382,Olivia Jones,2025-01-30,Inactive User
+1008,Isabella Martin,2025-08-26,Active
+1032,Ethan Thomas,2025-08-29,Active
+1068,Ava Davis,2025-07-27,Inactive User
+1133,Grace Thomas,2024-01-16,Inactive User
+1102,James Wilson,2025-03-04,Inactive User
+1081,Lucas Taylor,2025-11-09,Active
+1124,James Martin,2025-10-15,Active
+1197,James Garcia,2025-05-14,Inactive User
+1418,Michael Jones,2025-02-05,Inactive User
+1070,Jacob Garcia,2024-04-29,Inactive User
+1190,Mason Davis,2025-06-23,Inactive User
+1112,Jacob Miller,2025-06-16,Inactive User
+1181,Michael Brown,2025-03-27,Inactive User
+1186,Grace Thomas,2025-05-17,Inactive User
+1161,Ethan Martinez,2024-05-16,Inactive User
+1230,Lucas Moore,2024-08-31,Inactive User
+1314,Ava Williams,2025-08-22,Active
+1087,Michael Hernandez,2025-04-23,Inactive User
+1269,Charlotte Gonzalez,2025-11-05,Active
+1292,Ava Martin,2025-07-23,Inactive User
+1381,Alexander Taylor,2024-09-24,Inactive User
+1303,Jacob Gonzalez,2025-08-10,Inactive User
+1098,Sophia Taylor,2025-07-23,Inactive User
+1158,Jacob Moore,2024-11-03,Inactive User
+1308,Mia Jones,2025-09-14,Active
+1359,Lucas Brown,2024-11-30,Inactive User
+1491,Emma Jones,2024-11-07,Inactive User
+1212,Emma Taylor,2025-10-14,Active
+1253,Grace Martin,2025-03-31,Inactive User
+1281,Alexander Jones,2025-05-13,Inactive User
+1466,Emma Martinez,2024-02-14,Inactive User
+1471,Daniel Gonzalez,2025-04-21,Inactive User
+1372,Chloe Davis,2025-02-13,Inactive User
+1454,Ethan Jones,2025-08-17,Active
+1469,Grace Miller,2024-05-21,Inactive User
+1341,Amelia Rodriguez,2025-07-07,Inactive User
+1328,Chloe Taylor,2025-03-03,Inactive User
+1452,Daniel Lopez,2024-12-22,Inactive User
+1396,Alexander Hernandez,2025-04-18,Inactive User
+1028,Mason Martinez,2025-08-08,Inactive User
+1055,Daniel Jones,2025-03-22,Inactive User
+1119,Isabella Jackson,2024-11-01,Inactive User
+1288,Michael Moore,2025-02-23,Inactive User
+1034,Isabella Garcia,2025-10-20,Active
+1223,Grace Miller,2025-01-21,Inactive User
+1120,Mason Thomas,2024-03-24,Inactive User
+1193,Alexander Brown,2025-08-01,Inactive User
+1092,Isabella Smith,2025-08-10,Inactive User
+1126,Ava Garcia,2025-05-19,Inactive User
+1170,Olivia Williams,2025-09-16,Active
+1247,Daniel Hernandez,2025-04-17,Inactive User
+1398,Chloe Garcia,2024-06-03,Inactive User
+1426,Noah Johnson,2024-11-27,Inactive User
+1459,Lucas Brown,2025-09-08,Active
+1489,Daniel Taylor,2025-07-07,Inactive User
+1118,Mason Jackson,2025-08-14,Inactive User
+1218,Daniel Martin,2024-01-19,Inactive User
+1392,Ethan Martin,2025-04-04,Inactive User
+1435,Sophia Johnson,2025-10-06,Active
+1108,Olivia Wilson,2025-01-10,Inactive User
+1342,Isabella Moore,2025-10-10,Active
+1404,Mia Anderson,2024-09-04,Inactive User
+1199,Mia Davis,2024-10-09,Inactive User
+1227,Sophia Rodriguez,2025-05-03,Inactive User
+1254,Lucas Davis,2025-02-15,Inactive User
+1293,Sophia Rodriguez,2025-09-01,Active
+1333,James Martin,2024-07-09,Inactive User
+1367,Michael Moore,2025-01-22,Inactive User
+1494,Liam Anderson,2025-01-18,Inactive User
+1364,Mia Moore,2025-10-16,Active
+1473,Emma Jones,2025-06-05,Inactive User
+1178,Mia Martin,2025-06-02,Inactive User
+1237,Ava Johnson,2025-09-16,Active
+1420,Jacob Gonzalez,2025-01-23,Inactive User
+1383,Noah Anderson,2024-03-09,Inactive User
+1285,Grace Wilson,2024-03-22,Inactive User
+1040,Amelia Thomas,2024-10-29,Inactive User
+1048,Grace Moore,2025-03-21,Inactive User
+1222,James Martin,2025-10-27,Active
+1177,Ava Smith,2024-06-26,Inactive User
+1207,Grace Brown,2025-05-24,Inactive User
+1097,Isabella Moore,2024-09-07,Inactive User
+1209,Ava Martinez,2025-10-17,Active
+1499,Noah Johnson,2025-04-26,Inactive User
+1088,Isabella Miller,2025-03-27,Inactive User
+1096,Alexander Taylor,2024-12-30,Inactive User
+1204,Sophia Smith,2025-07-11,Inactive User
+1205,Sophia Gonzalez,2025-08-13,Inactive User
+1236,Isabella Jackson,2025-07-12,Inactive User
+1168,Emma Anderson,2024-08-24,Inactive User
+1291,Jacob Smith,2025-01-22,Inactive User
+1485,Grace Hernandez,2025-04-18,Inactive User
+1415,Mason Gonzalez,2024-02-15,Inactive User
+1462,Ethan Gonzalez,2025-05-26,Inactive User
+1072,Lucas Johnson,2025-06-17,Inactive User
+1101,Michael Jackson,2025-04-24,Inactive User
+1259,Mia Martinez,2024-08-02,Inactive User
+1313,Daniel Hernandez,2024-10-22,Inactive User
+1371,Sophia Rodriguez,2025-02-07,Inactive User
+1441,Grace Wilson,2024-06-30,Inactive User
+1156,Liam Rodriguez,2024-05-04,Inactive User
+1174,Charlotte Hernandez,2025-05-31,Inactive User
+1251,Charlotte Davis,2025-07-24,Inactive User
+1266,Noah Rodriguez,2024-04-09,Inactive User
+1414,Jacob Martinez,2025-08-02,Inactive User
+1434,Lucas Davis,2025-02-19,Inactive User
+1453,Emma Hernandez,2025-05-19,Inactive User
+1495,Lucas Thomas,2025-01-27,Inactive User
+1248,Daniel Anderson,2024-05-05,Inactive User
+1265,Michael Garcia,2024-05-01,Inactive User
+1465,Lucas Gonzalez,2025-02-02,Inactive User
+1277,Liam Anderson,2025-10-25,Active
+1302,Emma Miller,2024-11-28,Inactive User
+1443,Grace Wilson,2025-03-29,Inactive User
+1492,James Hernandez,2025-08-02,Inactive User
+1009,Ava Anderson,2025-06-21,Inactive User
+1095,Ethan Garcia,2025-10-07,Active
+1049,Sophia Gonzalez,2025-07-20,Inactive User
+1058,Ethan Thomas,2025-04-30,Inactive User
+1157,Amelia Martinez,2025-03-27,Inactive User
+1115,Daniel Johnson,2025-09-23,Active
+1093,Sophia Smith,2025-10-14,Active
+1362,Daniel Moore,2024-07-20,Inactive User
+1380,Chloe Rodriguez,2024-07-17,Inactive User
+1162,Ava Martin,2024-03-31,Inactive User
+1321,Mason Moore,2024-04-21,Inactive User
+1483,Jacob Brown,2025-06-20,Inactive User
+1071,Liam Moore,2025-07-26,Inactive User
+1033,Sophia Gonzalez,2025-04-06,Inactive User
+1114,Olivia Martin,2024-12-18,Inactive User
+1246,Ava Garcia,2025-06-25,Inactive User
+1330,Daniel Smith,2025-05-13,Inactive User
+1337,Isabella Jones,2025-10-18,Active
+1407,Alexander Rodriguez,2025-08-01,Inactive User
+1431,Lucas Miller,2025-08-07,Inactive User
+1432,Alexander Gonzalez,2025-08-25,Active
+1235,Charlotte Smith,2024-03-20,Inactive User
+1239,Noah Jackson,2024-09-21,Inactive User
+1497,Michael Brown,2025-09-15,Active
+1003,Emma Thomas,2024-04-06,Inactive User
+1136,Liam Jones,2025-01-12,Inactive User
+1280,Olivia Hernandez,2025-08-30,Active
+1318,James Jackson,2025-04-25,Inactive User
+1390,Charlotte Williams,2024-05-02,Inactive User
+1083,Mia Anderson,2024-02-11,Inactive User
+1224,Olivia Martinez,2024-07-04,Inactive User
+1183,Chloe Anderson,2025-10-19,Active
+1263,Emma Martin,2025-03-24,Inactive User
+1463,Ethan Rodriguez,2024-03-11,Inactive User
+1464,James Jones,2025-08-10,Inactive User
+1413,James Gonzalez,2024-12-17,Inactive User
+1355,Lucas Martin,2025-04-01,Inactive User
+1479,Amelia Gonzalez,2025-01-21,Inactive User
+1294,Mason Garcia,2024-01-03,Inactive User
+1438,Isabella Martin,2025-08-12,Inactive User
+1349,Jacob Wilson,2024-10-31,Inactive User
+1004,Alexander Thomas,2024-12-31,Inactive User
+1017,Daniel Davis,2025-01-17,Inactive User
+1022,Mia Smith,2025-03-25,Inactive User
+1030,Charlotte Taylor,2025-06-11,Inactive User
+1179,James Anderson,2024-03-10,Inactive User
+1026,James Taylor,2025-03-06,Inactive User
+1076,Sophia Rodriguez,2024-10-01,Inactive User
+1171,Isabella Gonzalez,2025-01-28,Inactive User
+1472,Jacob Thomas,2025-09-01,Active
+1047,Ava Miller,2025-04-05,Inactive User
+1319,Charlotte Williams,2025-05-06,Inactive User
+1016,Isabella Smith,2024-08-22,Inactive User
+1195,Sophia Gonzalez,2025-07-17,Inactive User
+1155,Sophia Jackson,2024-06-05,Inactive User
+1258,Mason Martinez,2024-07-22,Inactive User
+1283,Mason Williams,2025-08-14,Inactive User
+1220,Mason Jones,2025-02-09,Inactive User
+1268,Jacob Johnson,2024-07-12,Inactive User
+1343,Mia Jones,2024-03-22,Inactive User
+1401,Charlotte Anderson,2024-08-07,Inactive User
+1323,Chloe Taylor,2025-01-04,Inactive User
+1385,Michael Davis,2024-02-24,Inactive User
+1069,Olivia Moore,2025-07-11,Inactive User
+1104,Noah Miller,2024-01-24,Inactive User
+1245,Sophia Thomas,2025-08-19,Active
+1325,Chloe Taylor,2025-09-21,Active
+1331,Michael Jackson,2025-05-25,Inactive User
+1369,Charlotte Rodriguez,2024-02-10,Inactive User
+1191,Amelia Brown,2025-10-22,Active
+1219,Mia Jones,2025-08-07,Inactive User
+1153,Michael Brown,2025-10-24,Active
+1450,Ethan Brown,2024-09-19,Inactive User
+1444,Liam Rodriguez,2025-02-17,Inactive User
+1144,Sophia Martin,2024-09-16,Inactive User
+1354,Liam Gonzalez,2024-09-07,Inactive User
+1376,Lucas Miller,2025-01-01,Inactive User

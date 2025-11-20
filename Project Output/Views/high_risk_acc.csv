@@ -1,0 +1,7 @@
+﻿name,type,kind,null?,default,primary key,unique key,check,expression,comment,policy name,privacy domain
+FULL_NAME,VARCHAR(16777216),COLUMN,Y,,N,N,,,,,
+ACCOUNT_TYPE,VARCHAR(16777216),COLUMN,Y,,N,N,,,,,
+ACCOUNT_STATUS,VARCHAR(16777216),COLUMN,Y,,N,N,,,,,
+DAILY_TXN_VOLUME,"NUMBER(38,2)",COLUMN,Y,,N,N,,,,,
+AVG_TXN_AMOUNT,"NUMBER(38,5)",COLUMN,Y,,N,N,,,,,
+ANOMALY_FLAG,VARCHAR(7),COLUMN,Y,,N,N,,,,,

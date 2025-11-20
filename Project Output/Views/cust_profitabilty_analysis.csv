@@ -1,0 +1,298 @@
+﻿CUSTOMER_ID,FULL_NAME,REGION,NET_AMOUNT,REGION_RANK
+1472,Jacob Thomas,KwaZulu-Natal,23066.83,1
+1106,Liam Brown,KwaZulu-Natal,13691.24,2
+1223,Grace Miller,KwaZulu-Natal,8793.45,3
+1123,Charlotte Smith,KwaZulu-Natal,4076.86,4
+1153,Michael Brown,KwaZulu-Natal,2433.38,5
+1309,Liam Taylor,KwaZulu-Natal,2385.38,6
+1415,Mason Gonzalez,KwaZulu-Natal,2064.54,7
+1126,Ava Garcia,KwaZulu-Natal,1916.27,8
+1066,Chloe Hernandez,KwaZulu-Natal,1793.76,9
+1147,Emma Hernandez,KwaZulu-Natal,1596.57,10
+1194,Jacob Hernandez,KwaZulu-Natal,763.51,11
+1004,Alexander Thomas,KwaZulu-Natal,171.09,12
+1372,Chloe Davis,KwaZulu-Natal,-167.41,13
+1321,Mason Moore,KwaZulu-Natal,-288.29,14
+1046,Daniel Davis,KwaZulu-Natal,-412.28,15
+1382,Olivia Jones,KwaZulu-Natal,-1123.59,16
+1033,Sophia Gonzalez,KwaZulu-Natal,-1230.01,17
+1426,Noah Johnson,KwaZulu-Natal,-1292.32,18
+1374,Michael Hernandez,KwaZulu-Natal,-1346.76,19
+1404,Mia Anderson,KwaZulu-Natal,-1474.32,20
+1150,Noah Jones,KwaZulu-Natal,-1542.99,21
+1163,Ava Brown,KwaZulu-Natal,-1723.99,22
+1160,Lucas Williams,KwaZulu-Natal,-1757.45,23
+1240,Noah Jones,KwaZulu-Natal,-1820.12,24
+1040,Amelia Thomas,KwaZulu-Natal,-2555.56,25
+1002,Liam Rodriguez,KwaZulu-Natal,-3215.62,26
+1183,Chloe Anderson,Eastern Cape,22924.31,1
+1376,Lucas Miller,Eastern Cape,17025.55,2
+1494,Liam Anderson,Eastern Cape,6324.33,3
+1371,Sophia Rodriguez,Eastern Cape,5566.89,4
+1208,Liam Smith,Eastern Cape,5354.54,5
+1154,Jacob Moore,Eastern Cape,4654.14,6
+1276,Noah Martin,Eastern Cape,3655.91,7
+1464,James Jones,Eastern Cape,3175.80,8
+1136,Liam Jones,Eastern Cape,2475.61,9
+1237,Ava Johnson,Eastern Cape,1793.23,10
+1084,James Thomas,Eastern Cape,1097.95,11
+1088,Isabella Miller,Eastern Cape,964.07,12
+1203,Liam Davis,Eastern Cape,844.01,13
+1443,Grace Wilson,Eastern Cape,392.88,14
+1396,Alexander Hernandez,Eastern Cape,221.64,15
+1175,Emma Miller,Eastern Cape,-225.48,16
+1434,Lucas Davis,Eastern Cape,-608.06,17
+1207,Grace Brown,Eastern Cape,-642.42,18
+1362,Daniel Moore,Eastern Cape,-768.26,19
+1176,James Johnson,Eastern Cape,-818.44,20
+1155,Sophia Jackson,Eastern Cape,-931.20,21
+1210,Amelia Thomas,Eastern Cape,-942.89,22
+1102,James Wilson,Eastern Cape,-969.16,23
+1037,Alexander Taylor,Eastern Cape,-992.68,24
+1010,Lucas Davis,Eastern Cape,-993.03,25
+1413,James Gonzalez,Eastern Cape,-1116.56,26
+1224,Olivia Martinez,Eastern Cape,-1537.67,27
+1115,Daniel Johnson,Eastern Cape,-1675.33,28
+1343,Mia Jones,Eastern Cape,-1822.19,29
+1204,Sophia Smith,Eastern Cape,-1967.76,30
+1412,Ava Thomas,Eastern Cape,-2479.53,31
+1100,Daniel Smith,Eastern Cape,-2531.45,32
+1177,Ava Smith,Eastern Cape,-2701.60,33
+1444,Liam Rodriguez,Eastern Cape,-2901.40,34
+1324,Mason Anderson,Mpumalanga,27118.93,1
+1073,Liam Brown,Mpumalanga,18404.49,2
+1032,Ethan Thomas,Mpumalanga,13840.63,3
+1298,Jacob Rodriguez,Mpumalanga,13220.79,4
+1047,Ava Miller,Mpumalanga,11729.77,5
+1266,Noah Rodriguez,Mpumalanga,11560.38,6
+1093,Sophia Smith,Mpumalanga,7122.92,7
+1034,Isabella Garcia,Mpumalanga,6988.61,8
+1049,Sophia Gonzalez,Mpumalanga,4646.01,9
+1076,Sophia Rodriguez,Mpumalanga,4456.97,10
+1471,Daniel Gonzalez,Mpumalanga,4084.04,11
+1103,Ethan Martinez,Mpumalanga,3577.71,12
+1109,Jacob Rodriguez,Mpumalanga,3529.04,13
+1479,Amelia Gonzalez,Mpumalanga,2758.11,14
+1014,Grace Smith,Mpumalanga,2389.98,15
+1096,Alexander Taylor,Mpumalanga,2200.56,16
+1072,Lucas Johnson,Mpumalanga,1020.56,17
+1097,Isabella Moore,Mpumalanga,604.06,18
+1360,Liam Taylor,Mpumalanga,-190.48,19
+1091,Mason Martin,Mpumalanga,-447.02,20
+1001,Noah Jackson,Mpumalanga,-663.88,21
+1401,Charlotte Anderson,Mpumalanga,-1039.00,22
+1274,Lucas Williams,Mpumalanga,-1114.89,23
+1131,Emma Gonzalez,Mpumalanga,-1356.24,24
+1235,Charlotte Smith,Mpumalanga,-1412.37,25
+1120,Mason Thomas,Mpumalanga,-1467.29,26
+1098,Sophia Taylor,Mpumalanga,-1541.51,27
+1355,Lucas Martin,Mpumalanga,-1551.98,28
+1227,Sophia Rodriguez,Mpumalanga,-1558.69,29
+1242,Michael Jackson,Mpumalanga,-1735.88,30
+1337,Isabella Jones,Mpumalanga,-2261.53,31
+1441,Grace Wilson,Mpumalanga,-2512.10,32
+1197,James Garcia,Mpumalanga,-3059.61,33
+1408,James Thomas,Mpumalanga,-3186.49,34
+1188,Olivia Moore,Mpumalanga,-3206.24,35
+1022,Mia Smith,Mpumalanga,-3857.33,36
+1168,Emma Anderson,Mpumalanga,-5557.04,37
+1328,Chloe Taylor,Limpopo,9337.99,1
+1193,Alexander Brown,Limpopo,6299.07,2
+1181,Michael Brown,Limpopo,6092.29,3
+1101,Michael Jackson,Limpopo,5200.13,4
+1349,Jacob Wilson,Limpopo,1928.73,5
+1483,Jacob Brown,Limpopo,1799.65,6
+1179,James Anderson,Limpopo,1043.50,7
+1116,Michael Miller,Limpopo,723.41,8
+1057,Mason Wilson,Limpopo,590.38,9
+1465,Lucas Gonzalez,Limpopo,549.55,10
+1381,Alexander Taylor,Limpopo,384.35,11
+1468,Sophia Taylor,Limpopo,-338.97,12
+1423,Mia Smith,Limpopo,-496.85,13
+1303,Jacob Gonzalez,Limpopo,-841.93,14
+1003,Emma Thomas,Limpopo,-874.34,15
+1318,James Jackson,Limpopo,-1012.55,16
+1460,Lucas Hernandez,Limpopo,-1380.47,17
+1383,Noah Anderson,Limpopo,-1496.40,18
+1390,Charlotte Williams,Limpopo,-2059.06,19
+1293,Sophia Rodriguez,Limpopo,-2208.48,20
+1019,Grace Davis,Limpopo,-2218.10,21
+1325,Chloe Taylor,Limpopo,-2373.25,22
+1308,Mia Jones,Limpopo,-2814.34,23
+1245,Sophia Thomas,Limpopo,-3179.28,24
+1481,Emma Wilson,Limpopo,-3243.83,25
+1414,Jacob Martinez,Limpopo,-3308.81,26
+1171,Isabella Gonzalez,North West,15717.93,1
+1162,Ava Martin,North West,13801.25,2
+1079,Mia Brown,North West,10303.30,3
+1054,Ava Gonzalez,North West,9864.19,4
+1247,Daniel Hernandez,North West,8637.81,5
+1435,Sophia Johnson,North West,8627.72,6
+1333,James Martin,North West,6894.89,7
+1174,Charlotte Hernandez,North West,6148.53,8
+1021,Sophia Anderson,North West,6008.54,9
+1265,Michael Garcia,North West,5817.98,10
+1448,Ethan Miller,North West,3787.20,11
+1336,Mia Smith,North West,3386.57,12
+1212,Emma Taylor,North West,2051.02,13
+1294,Mason Garcia,North West,-89.91,14
+1230,Lucas Moore,North West,-213.27,15
+1156,Liam Rodriguez,North West,-236.54,16
+1253,Grace Martin,North West,-375.91,17
+1466,Emma Martinez,North West,-474.16,18
+1419,Grace Johnson,North West,-515.42,19
+1081,Lucas Taylor,North West,-910.96,20
+1018,Alexander Thomas,North West,-956.51,21
+1430,Charlotte Jones,North West,-1006.35,22
+1493,James Jackson,North West,-1073.59,23
+1489,Daniel Taylor,North West,-1270.94,24
+1063,Isabella Lopez,North West,-1272.55,25
+1316,Amelia Martinez,North West,-1638.88,26
+1213,James Brown,North West,-1642.55,27
+1285,Grace Wilson,North West,-1819.50,28
+1055,Daniel Jones,North West,-1884.80,29
+1410,Mason Brown,North West,-2463.58,30
+1013,Ava Smith,North West,-2489.97,31
+1192,Lucas Brown,North West,-2784.84,32
+1157,Amelia Martinez,North West,-2914.66,33
+1358,Sophia Hernandez,North West,-3077.49,34
+1190,Mason Davis,North West,-6369.64,35
+1130,Mason Rodriguez,Free State,23673.87,1
+1392,Ethan Martin,Free State,12169.99,2
+1462,Ethan Gonzalez,Free State,12076.48,3
+1118,Mason Jackson,Free State,9166.02,4
+1450,Ethan Brown,Free State,8870.27,5
+1114,Olivia Martin,Free State,8341.16,6
+1199,Mia Davis,Free State,7345.86,7
+1261,Olivia Anderson,Free State,7237.95,8
+1398,Chloe Garcia,Free State,7164.76,9
+1108,Olivia Wilson,Free State,6501.29,10
+1239,Noah Jackson,Free State,5764.44,11
+1264,Daniel Jackson,Free State,3118.21,12
+1499,Noah Johnson,Free State,2986.37,13
+1259,Mia Martinez,Free State,1762.53,14
+1016,Isabella Smith,Free State,1442.59,15
+1220,Mason Jones,Free State,126.16,16
+1028,Mason Martinez,Free State,-65.11,17
+1251,Charlotte Davis,Free State,-248.34,18
+1453,Emma Hernandez,Free State,-423.42,19
+1146,Jacob Moore,Free State,-540.53,20
+1497,Michael Brown,Free State,-950.65,21
+1281,Alexander Jones,Free State,-958.70,22
+1094,Michael Jones,Free State,-1167.01,23
+1195,Sophia Gonzalez,Free State,-1171.78,24
+1313,Daniel Hernandez,Free State,-1284.79,25
+1380,Chloe Rodriguez,Free State,-1369.10,26
+1058,Ethan Thomas,Free State,-1566.75,27
+1461,Liam Martinez,Free State,-1683.03,28
+1104,Noah Miller,Free State,-1787.13,29
+1222,James Martin,Free State,-2124.68,30
+1170,Olivia Williams,Free State,-2476.02,31
+1438,Isabella Martin,Free State,-2486.21,32
+1492,James Hernandez,Free State,-2793.95,33
+1026,James Taylor,Free State,-5477.31,34
+1399,Emma Davis,Free State,-7184.31,35
+1486,Isabella Martinez,Free State,-9805.23,36
+1236,Isabella Jackson,Western Cape,29597.91,1
+1068,Ava Davis,Western Cape,19204.57,2
+1268,Jacob Johnson,Western Cape,11746.92,3
+1124,James Martin,Western Cape,11056.68,4
+1283,Mason Williams,Western Cape,8262.90,5
+1186,Grace Thomas,Western Cape,7724.00,6
+1159,Emma Anderson,Western Cape,6124.27,7
+1252,Isabella Hernandez,Western Cape,5512.10,8
+1277,Liam Anderson,Western Cape,4791.19,9
+1238,Amelia Jackson,Western Cape,4238.97,10
+1008,Isabella Martin,Western Cape,3686.57,11
+1272,Grace Johnson,Western Cape,3449.76,12
+1345,Charlotte Garcia,Western Cape,3387.01,13
+1330,Daniel Smith,Western Cape,2756.45,14
+1478,Olivia Miller,Western Cape,2507.86,15
+1250,James Thomas,Western Cape,1035.53,16
+1394,Ethan Thomas,Western Cape,-27.95,17
+1353,Daniel Garcia,Western Cape,-106.50,18
+1354,Liam Gonzalez,Western Cape,-326.37,19
+1112,Jacob Miller,Western Cape,-533.10,20
+1367,Michael Moore,Western Cape,-685.37,21
+1323,Chloe Taylor,Western Cape,-1464.86,22
+1121,Emma Gonzalez,Western Cape,-1597.90,23
+1070,Jacob Garcia,Western Cape,-1779.25,24
+1042,Ethan Martinez,Western Cape,-1917.51,25
+1269,Charlotte Gonzalez,Western Cape,-2077.44,26
+1418,Michael Jones,Western Cape,-2181.38,27
+1385,Michael Davis,Western Cape,-2388.25,28
+1463,Ethan Rodriguez,Western Cape,-3779.51,29
+1485,Grace Hernandez,Western Cape,-3874.77,30
+1205,Sophia Gonzalez,Western Cape,-3957.06,31
+1041,Ava Thomas,Western Cape,-6947.57,32
+1402,Michael Garcia,Northern Cape,41573.60,1
+1311,Mia Wilson,Northern Cape,20310.15,2
+1048,Grace Moore,Northern Cape,18811.50,3
+1338,Michael Rodriguez,Northern Cape,14432.86,4
+1202,Jacob Martin,Northern Cape,12482.62,5
+1023,Isabella Moore,Northern Cape,10706.93,6
+1144,Sophia Martin,Northern Cape,7540.86,7
+1191,Amelia Brown,Northern Cape,6611.30,8
+1301,Charlotte Wilson,Northern Cape,6541.87,9
+1133,Grace Thomas,Northern Cape,4392.64,10
+1125,Michael Martinez,Northern Cape,3892.79,11
+1314,Ava Williams,Northern Cape,3644.16,12
+1009,Ava Anderson,Northern Cape,3132.16,13
+1069,Olivia Moore,Northern Cape,1415.63,14
+1254,Lucas Davis,Northern Cape,1372.03,15
+1027,Isabella Taylor,Northern Cape,680.16,16
+1087,Michael Hernandez,Northern Cape,-53.65,17
+1369,Charlotte Rodriguez,Northern Cape,-99.79,18
+1258,Mason Martinez,Northern Cape,-494.02,19
+1255,Ethan Brown,Northern Cape,-607.67,20
+1280,Olivia Hernandez,Northern Cape,-724.55,21
+1304,Mason Martinez,Northern Cape,-749.78,22
+1491,Emma Jones,Northern Cape,-777.20,23
+1071,Liam Moore,Northern Cape,-996.78,24
+1452,Daniel Lopez,Northern Cape,-1192.11,25
+1469,Grace Miller,Northern Cape,-1196.74,26
+1083,Mia Anderson,Northern Cape,-1439.62,27
+1030,Charlotte Taylor,Northern Cape,-1522.79,28
+1263,Emma Martin,Northern Cape,-1674.73,29
+1359,Lucas Brown,Northern Cape,-1826.87,30
+1075,Ava Rodriguez,Northern Cape,-2107.26,31
+1132,Grace Lopez,Northern Cape,-2284.81,32
+1473,Emma Jones,Northern Cape,-2297.84,33
+1331,Michael Jackson,Northern Cape,-2402.72,34
+1342,Isabella Moore,Northern Cape,-2460.16,35
+1161,Ethan Martinez,Northern Cape,-3466.31,36
+1495,Lucas Thomas,Northern Cape,-3554.62,37
+1431,Lucas Miller,Northern Cape,-4535.87,38
+1288,Michael Moore,Northern Cape,-4678.70,39
+1407,Alexander Rodriguez,Gauteng,17493.94,1
+1302,Emma Miller,Gauteng,15154.49,2
+1364,Mia Moore,Gauteng,14855.48,3
+1151,James Williams,Gauteng,8889.07,4
+1387,Mia Brown,Gauteng,7769.02,5
+1092,Isabella Smith,Gauteng,6843.92,6
+1158,Jacob Moore,Gauteng,5312.06,7
+1246,Ava Garcia,Gauteng,5121.69,8
+1219,Mia Jones,Gauteng,4271.14,9
+1279,Isabella Gonzalez,Gauteng,2960.07,10
+1095,Ethan Garcia,Gauteng,2640.09,11
+1432,Alexander Gonzalez,Gauteng,1859.36,12
+1459,Lucas Brown,Gauteng,1350.81,13
+1234,Olivia Rodriguez,Gauteng,1270.32,14
+1017,Daniel Davis,Gauteng,1056.10,15
+1228,Liam Anderson,Gauteng,659.14,16
+1341,Amelia Rodriguez,Gauteng,-11.68,17
+1286,Emma Martinez,Gauteng,-74.24,18
+1248,Daniel Anderson,Gauteng,-178.23,19
+1209,Ava Martinez,Gauteng,-454.64,20
+1178,Mia Martin,Gauteng,-585.98,21
+1351,Liam Anderson,Gauteng,-723.06,22
+1218,Daniel Martin,Gauteng,-766.96,23
+1172,Grace Martinez,Gauteng,-970.70,24
+1319,Charlotte Williams,Gauteng,-1664.16,25
+1119,Isabella Jackson,Gauteng,-1693.86,26
+1361,Amelia Anderson,Gauteng,-1736.03,27
+1292,Ava Martin,Gauteng,-1773.33,28
+1388,Emma Davis,Gauteng,-1833.95,29
+1420,Jacob Gonzalez,Gauteng,-1909.82,30
+1454,Ethan Jones,Gauteng,-2435.32,31
+1291,Jacob Smith,Gauteng,-2550.18,32

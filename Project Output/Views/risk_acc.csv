@@ -1,0 +1,4 @@
+﻿name,type,kind,null?,default,primary key,unique key,check,expression,comment,policy name,privacy domain
+BRANCH_CODE,VARCHAR(16777216),COLUMN,Y,,N,N,,,,,
+TOTAL_EXPOSURE,"NUMBER(38,1)",COLUMN,Y,,N,N,,,,,
+RISKY_ACCOUNTS,"NUMBER(18,0)",COLUMN,N,,N,N,,,,,
