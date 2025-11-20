@@ -83,5 +83,5 @@ All views are stored under `braavos.analytics` schema:
 
 **Author:** Wavhothe Masakona  
 **Location:** Johannesburg, South Africa  
-**Focus:** Banking & Insurance Analytics | SQL | Power BI | Strategic Reportin
+**Focus:** Banking & Insurance Analytics | SQL | Power BI | Strategic Reporting
 
